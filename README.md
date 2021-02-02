@@ -1,4 +1,4 @@
-# 215F-PCTO-Gruppo150
+# 215F-PCTO-Gruppo10
 
-Progetto PCTO Gruppo: Pacifico, Biondini e Giannese.
+Progetto PCTO Gruppo 10: Pacifico, Biondini e Giannese.
 Server C#
